@@ -6,6 +6,10 @@ adjust scene threshold to 0.9 for best results
 	
 -- SequenceDector.py (ignore, was a an intermediate project)
 
+-- videoSelector.py
+Tool to select videos from a large quantity of videos, preview as loops, adjustable video speed.
+Copies video into a subdir "selected"
+
 -- autolooper.py
 Optical flow based, Makes vjloops (detect sequence + blendin and an out)
 	
