@@ -1,4 +1,19 @@
-Use CLEAN.py 
-> best value with similarity threshold at 0.9
-Exports as mp4 
-> use cables gl video converted to make compatible with cables
+Alpha video tools.
+
+-- Clean.py
+IA based scene detector 
+adjust scene threshold to 0.9 for best results
+	
+-- SequenceDector.py (ignore, was a an intermediate project)
+
+-- autolooper.py
+Optical flow based, Makes vjloops (detect sequence + blendin and an out)
+	
+-- automaticFfmpeginstaller_and_path.bat
+Windows bat file to install ffmpeg and insert into path	
+
+-- batchRenameMoviesincremental.bat
+Windows bat file to rename files from 001.mp4 to ... xxxx.mp4
+
+-- convertVideosforCablesGl.bat
+Windows bat file for ffmpeg conversion for cables GL
