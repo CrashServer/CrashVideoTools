@@ -1,4 +1,4 @@
-Alpha video tools.
+Alpha video tools. Python based, some require CUDA.
 
 -- Clean.py
 IA based scene detector 
